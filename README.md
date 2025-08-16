@@ -7,7 +7,7 @@ The `prompts` directory contains the original research prompts and style guides 
 ## Manuals
 
 ### Field Manual for Prompt Engineering
-A comprehensive guide to LLM prompt engineering covering fundamental design patterns, advanced techniques, and production implementation strategies. Includes zero-shot, few-shot, chain-of-thought prompting, constitutional AI approaches, and empirical optimization methods with real-world case studies demonstrating 60-95% accuracy improvements.
+A guide to LLM prompt engineering covering fundamental design patterns, advanced techniques, and production implementation strategies. Includes zero-shot, few-shot, chain-of-thought prompting, constitutional AI approaches, and empirical optimization methods with real-world case studies.
 
 ### Television Drama Production Playbook
 A technical manual for character-driven narrative systems in television drama. Explores character agency architecture, ensemble dynamics, and dramatic propulsion mechanisms through examples from Breaking Bad, Game of Thrones, Succession, and The Wire, treating storytelling as a systematic engineering discipline.
