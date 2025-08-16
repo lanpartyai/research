@@ -1,0 +1,10 @@
+{
+  "enabledMcpjsonServers": [
+    "rag"
+  ],
+  "permissions": {
+    "allow": [
+      "mcp__rag__query_documents"
+    ]
+  }
+}
