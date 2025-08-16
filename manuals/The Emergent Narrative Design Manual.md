@@ -19,7 +19,7 @@ The mechanical loop is elegant: players pursue Beliefs for rewards, creating dra
 ### Observable Manifestations
 In actual play, a Burning Wheel character with the Belief "Right is might and I will show them I am right" faced choosing between pursuing glory hunting orcs (earning Artha) versus maintaining army cohesion. The system rewarded the dramatic choice regardless of tactical wisdom, creating a memorable story moment where mechanical incentive aligned with character expression.
 
-Crusader Kings III implements similar principles through its trait system. A "Sadistic" ruler gains combat bonuses but suffers opinion penalties, creating cascading social consequences. The Stress system forces characters to act according to personality—a Compassionate ruler executing prisoners accumulates Stress, potentially triggering mental breaks that generate new story complications. 
+Crusader Kings III implements similar principles through its trait system. A "Sadistic" ruler gains combat bonuses but suffers opinion penalties, creating cascading social consequences. The Stress system forces characters to act according to personality—a Compassionate ruler executing prisoners accumulates Stress, potentially triggering mental breaks that generate new story complications.
 
 In Monsterhearts, playbook moves encode teenage archetypes as mechanical drivers. The Vampire's feeding mechanics naturally create dependency relationships, while the Queen's social manipulation moves establish hierarchies. Each playbook generates different narrative pressures without GM intervention.
 
@@ -333,15 +333,3 @@ The One Ring's Shadow accumulation fundamentally transforms characters. As Shado
 
 ### System Integration
 System evolution integrates with all other mechanics by changing their fundamental operation. Legacy games modify core rules based on story events—diseases might become incurable, new actions might become available, or victory conditions might change. Character evolution systems like Urban Shadows' Corruption affect every roll, relationship, and advancement option. These integrations ensure system evolution isn't cosmetic but fundamentally transforms how the game plays, creating campaigns where mechanical evolution drives narrative transformation and vice versa.
-
-## Conclusion: The future of emergent narrative design
-
-The systems examined in this manual demonstrate that games need not choose between mechanical depth and narrative richness. The most successful emergent narrative designs use mechanics not to simulate reality but to generate dramatic possibility. They create frameworks where player choice matters, consequences cascade, and stories arise from systematic interaction rather than authored content.
-
-The key insight across all successful systems is that **mechanics are narrative**. Every die roll, resource spent, or clock advanced tells part of the story. The best designs ensure these mechanical moments carry emotional weight by connecting them to character motivations, relationship dynamics, and lasting consequences. Games become story engines where every mechanical interaction potentially generates narrative significance.
-
-Looking forward, emergent narrative design continues evolving through digital integration, AI assistance, and hybrid physical-digital play. But the core principles remain constant: player agency must matter, systems must respond dynamically, and mechanical interactions must generate rather than gate narrative possibility. The future belongs to games that trust players as co-creators, providing frameworks for collaborative storytelling rather than passive consumption.
-
-The techniques in this manual—from partial success to systematic evolution—provide tested patterns for creating games where stories emerge through play. By understanding why these mechanics succeed at generating narrative, designers can create new systems that produce unique, meaningful stories every time they're played. The goal isn't to tell players a story, but to create systems where the best story is always the one that emerges from their choices, conflicts, and connections during play itself.
-
-This is the promise of emergent narrative: infinite stories from finite rules, each one unique yet coherent, surprising yet inevitable. Games that achieve this become more than entertainment—they become tools for collaborative creativity, engines for exploring possibility, and frameworks for discovering stories that could exist nowhere else but in the space between systematic constraint and human imagination.
