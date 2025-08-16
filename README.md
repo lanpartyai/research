@@ -17,3 +17,6 @@ A systems approach to organic audience growth and community building in digital 
 
 ### The Emergent Narrative Design Manual
 An exploration of how games create compelling stories through mechanical systems rather than authored content. Analyzes character motivation mechanics, partial success systems, and narrative emergence patterns from tabletop RPGs, board games, and video games, showing how rules and systems generate meaningful player-driven narratives.
+
+### AI Agent Dramaturgy Field Manual
+A guide to designing autonomous AI agent systems with dramatic intent and narrative coherence. Explores agent personality architecture, multi-agent ensemble dynamics, emergent narrative patterns, and the intersection of technical capabilities with storytelling principles to create compelling agent-driven experiences.
