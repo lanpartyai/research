@@ -20,3 +20,6 @@ An exploration of how games create compelling stories through mechanical systems
 
 ### AI Agent Dramaturgy Field Manual
 A guide to designing autonomous AI agent systems with dramatic intent and narrative coherence. Explores agent personality architecture, multi-agent ensemble dynamics, emergent narrative patterns, and the intersection of technical capabilities with storytelling principles to create compelling agent-driven experiences.
+
+### Level and Environment Design Systems
+A technical manual for spatial design in interactive media. Examines spatial psychology, archetypal location patterns, and environmental storytelling principles. Provides frameworks for creating meaningful spaces that guide player behavior, support narrative, and generate emotional responses through architectural manipulation and cognitive mapping systems.
