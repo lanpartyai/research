@@ -58,7 +58,7 @@ Analyze the underlying mechanical principles of creative processes that systemat
 
 ### Tabletop RPG Creation and Development
 - **Apocalypse World Threat Creation**: Systematic antagonist development, cascading consequence design
-- **FATE Core Aspect Development**: Collaborative character and world trait creation, systematic dramatic element integration
+- **Fate Core Aspect Development**: Collaborative character and world trait creation, systematic dramatic element integration
 - **Dogs in the Vineyard Town Creation**: Systematic community conflict generation, moral dilemma architecture
 - **Burning Wheel Situation Building**: Belief-driven conflict creation, systematic tension architecture
 - **Sorcerer Kicker Development**: How single dramatic events are expanded into ongoing narrative campaigns
@@ -164,7 +164,7 @@ Analyze the underlying mechanical principles of creative processes that systemat
 - **Microscope's Palette and Focus System**: How collaborative boundary-setting and thematic direction create systematic creative development
 - **Snowflake Method Evolution**: How systematic expansion from sentence to full story maintains coherence while building complexity
 - **Improvisational Theatre "Yes, And" Building**: How acceptance and elaboration rules create reliable creative expansion without predetermined outcomes
-- **FATE Core Collaborative Character Creation**: How structured collaboration systematically develops integrated character ensembles
+- **Fate Core Collaborative Character Creation**: How structured collaboration systematically develops integrated character ensembles
 - **Dogs in the Vineyard Town Creation**: How systematic moral conflict architecture generates ongoing dramatic situations
 
 ### Cross-Domain Creative Process Comparison
